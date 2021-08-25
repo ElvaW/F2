@@ -24,7 +24,7 @@ const data = [{
   fruit: '苹果',
   value: 26
 }, {
-  fruit: '梨子',
+  fruit: '草莓',
   value: 40
 }, {
   fruit: '香蕉',
